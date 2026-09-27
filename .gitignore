@@ -1,0 +1,22 @@
+# Quartus generated databases and output
+db/
+incremental_db/
+output_files/
+simulation/
+*.rpt
+*.summary
+*.done
+*.pof
+*.sof
+*.pin
+*.qws
+*.qws~
+*.smsg
+*.qdf
+
+# Backups / temporary files
+*.bak
+*.tmp
+*~
+.DS_Store
+__MACOSX/
